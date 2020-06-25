@@ -1,0 +1,22 @@
+{
+ "Consumos": [
+  {
+   "Dia": "",
+   "Km": 450,
+   "Litros": 5,
+   "ConsumoPorLitro": 0
+  },
+  {
+   "Dia": "2020-06-15",
+   "Km": 560,
+   "Litros": 30,
+   "ConsumoPorLitro": 3.6666666666666665
+  },
+  {
+   "Dia": "2020-06-15",
+   "Km": 660,
+   "Litros": 30,
+   "ConsumoPorLitro": 3.3333333333333335
+  }
+ ]
+}
